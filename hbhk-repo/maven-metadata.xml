@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.hbhk.repo</groupId>
+  <artifactId>hbhk-repo</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140804123211</lastUpdated>
+  </versioning>
+</metadata>
